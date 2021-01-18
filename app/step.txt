@@ -1,0 +1,19 @@
+1- create category table in phpmyadmin
+2- create category model
+3- category add new / save category to table 
+    3.1 - reuse previous create method from Database libraries
+4- retrieve data from category with datatable
+
+//25-11-2020
+1- retrieve related category to edit from
+2- upate category 
+
+//22-12-2020
+1- create edit modal from
+2- call edit modal when click edit btn 
+3- retrieve old data from expense table
+4- update new data
+
+
+//11/1/2021
+Frontend validation
